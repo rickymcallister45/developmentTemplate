@@ -1,5 +1,8 @@
-<php
+<?php
+/*
+# this will break your code delete what is not needed and eliminate single quotes
 
+echo "
 #  https://gist.github.com/lancejpollard/1978404
 
 # Basic HTML Meta Tags
@@ -114,7 +117,7 @@
 <link media="only screen and (max-device-width: 480px)" href="http://wordpress.org/style/iphone.css" type="text/css" rel="stylesheet" />
 
 
+";
 
-
-
+*/
 ?>
