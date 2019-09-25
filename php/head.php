@@ -5,7 +5,7 @@ echo
 <html>
   <head>";
     
-    include "./metas.php";
+    include "./metaTags.php";
   
   echo  "<link rel='stylesheet' href='css/zeroOutStyle.css'>
          <link rel='stylesheet' href='css/style.css'>
