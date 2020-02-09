@@ -1,0 +1,97 @@
+
+/* IPAD */
+@media screen and (min-device-width: 1020px) {
+  
+}
+
+/* IPAD PRO */
+
+@media screen and (min-device-width: 765px) {
+  
+}
+
+/* IPHONE 6/7/8 PLUS + PIXEL 2 */
+
+@media screen and (min-device-width: 410px) {
+  
+}
+
+
+/* PIXEL 2 XL */
+
+@media screen and (min-device-width: 408px) {
+  
+}
+
+/* IPHONE X + IPHONE 6/7/8 */
+
+@media screen and (min-device-width: 370px) {
+  
+}
+
+
+/* GALAXY S5 */
+
+@media screen and (min-device-width: 355px) {
+  
+}
+
+/* IPHONE 5/SE */
+
+@media screen and (min-device-width: 315px) {
+  
+}
+
+
+
+
+/* portraits */
+
+
+
+/* IPAD */
+@media screen and (max-device-width: 1365px) and (orientation:portrait) {
+  
+}
+
+/* IPAD PRO */
+
+@media screen and (max-device-width: 1020px) and (orientation:portrait) {
+  
+}
+
+/* PIXEL 2 XL */
+
+@media screen and (max-device-width: 820px) and (orientation:portrait) {
+  
+}
+
+/* IPHONE X */
+
+@media screen and (max-device-width: 808px) and (orientation:portrait) {
+  
+}
+
+/* IPHONE 6/7/8 PLUS + PIXEL 2 */
+
+@media screen and (max-device-width: 728px) and (orientation:portrait) {
+  
+}
+
+/* IPHONE 6/7/8 */
+
+@media screen and (max-device-width: 660px) and (orientation:portrait) {
+  
+}
+
+/* GALAXY S5 */
+
+@media screen and (max-device-width: 635px) and (orientation:portrait) {
+  
+}
+
+/* IPHONE 5/SE */
+
+@media screen and (max-device-width: 564px) and (orientation:portrait) {
+  
+}
