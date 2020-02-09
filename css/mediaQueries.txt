@@ -1,5 +1,11 @@
+/* DESkTOP*/
+
+@media (min-width: 1281px) {
+
+}
 
 /* IPAD */
+
 @media screen and (min-device-width: 1020px) {
   
 }
